@@ -1,0 +1,8 @@
+lib/*           usr/share/nwjs/lib/
+locales/*       usr/share/nwjs/locales/
+swiftshader/*     usr/share/nwjs/swiftshader/
+chrome_crashpad_handler		usr/share/nwjs/
+icudtl.dat            usr/share/nwjs/
+nw            usr/share/nwjs/
+*.pak			usr/share/nwjs/
+v8_context_snapshot.bin  usr/share/nwjs/

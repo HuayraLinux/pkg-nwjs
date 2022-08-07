@@ -1,0 +1,9 @@
+NW.js para Debian
+---------------------
+
+The NW.js framework lets you write cross-platform desktop applications
+using JavaScript, HTML and CSS. It is based on Node.js and Chromium.
+
+This is a Debian package for NW.js
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Tue, 7 Aug 2022 16:02:10 -0300

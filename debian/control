@@ -1,0 +1,24 @@
+Source: nwjs
+Section: utils
+Priority: extra
+Maintainer: Fernando Toledo <ragnarok@docksud.com.ar>
+Build-Depends: debhelper (>= 9.0.0), devscripts, libwww-perl, unzip
+Standards-Version: 3.9.6
+Homepage: http://nwjs.io
+Vcs-Browser: https://github.com/HuayraLinux/pkg-nwjs
+Vcs-Git: https://github.com/HuayraLinux/pkg-nwjs.git
+
+Package: nwjs
+Architecture: i386 amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}, libnss3, libxrandr2, libasound2,
+    libatk1.0-0, libcairo2, libcups2, libdrm2, libpango1.0-0, libxdamage1,
+    libgbm1, libatspi2.0-0, libxcomposite1, libxkbcommon0
+Conflicts: node-webkit (<= 0.12.3.3)
+Replaces: node-webkit (<= 0.12.3.3)
+Provides: node-webkit (= 0.12.3.3)
+Description: Framework lets you write cross-platform desktop applications
+ Previously known as node-webkit, lets you call all Node.js modules
+ directly from DOM and enables a new way of writing applications
+ with all Web technologies.
+ .
+ This is a poor Binary package!

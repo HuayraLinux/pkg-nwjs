@@ -1,0 +1,7 @@
+nwjs (0.67.0-1) unstable; urgency=medium
+
+  * version 0.67.0
+  * reemplaza a node-webkit que queda obsoleto
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Sun, 07 Aug 2022 05:11:52 -0300
+
