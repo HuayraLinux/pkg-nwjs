@@ -15,7 +15,7 @@ Depends: ${shlibs:Depends}, ${misc:Depends}, libnss3, libxrandr2, libasound2,
     libgbm1, libatspi2.0-0, libxcomposite1, libxkbcommon0
 Conflicts: node-webkit (<= 0.12.3.3)
 Replaces: node-webkit (<= 0.12.3.3)
-Provides: node-webkit (= 0.12.3.3)
+Provides: node-webkit 
 Description: Framework lets you write cross-platform desktop applications
  Previously known as node-webkit, lets you call all Node.js modules
  directly from DOM and enables a new way of writing applications

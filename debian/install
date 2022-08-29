@@ -1,6 +1,6 @@
 lib/*           usr/share/nwjs/lib/
 locales/*       usr/share/nwjs/locales/
-swiftshader/*     usr/share/nwjs/swiftshader/
+swiftshader/     usr/share/nwjs/swiftshader/
 chrome_crashpad_handler		usr/share/nwjs/
 icudtl.dat            usr/share/nwjs/
 nw            usr/share/nwjs/
